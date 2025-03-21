@@ -1,3 +1,7 @@
+# Info
+
+Repo ist archived since I don't use it anymore. Feel free to fork if you need additional Cover overlays.
+
 # Poster Overlay GUI
 
 This is a simple Windows Forms application that allows users to add 4K Ultra HD and BluRay Banners to their movie posters with Dolby Vision, IMAX and HDR/HDR10+ labels.
